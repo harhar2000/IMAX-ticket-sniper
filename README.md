@@ -2,6 +2,9 @@
 
 I was trying to see **Interstellar** at the BFI IMAX, but showings kept selling out so quickly! To make sure I never missed out on a viewing, I developed a quick **MVP** script that notifies me as soon as new showtimes become available.
 
+![Telegram Notification](telegramText.jpg)
+
+
 The project is a simple web scraper that checks for showtimes on the BFI IMAX website using **Selenium** and then sends me a message via **Telegram** when a showtime is posted. It's an early version and there are lots of improvements that could be made, but it does the job for now!
 
 ## How it Works
